@@ -41,7 +41,8 @@
     width: 720px;
 }
 @media screen and (max-width: 768){
-    .header{
+    .header, .main{
         background-color: black;
+        width: 100%;
     }
 }
